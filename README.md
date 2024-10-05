@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ravitez</h1>
-<h3 align="center">A passionate Full-Stack developer and entrepreneur from India</h3>
+<h1 align="center">Hi 👋, I'm Abhiraman</h1>
+<h3 align="center">A passionate Full-Stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitezabm&label=Profile%20views&color=0e75b6&style=flat" alt="ravitezabm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravitezabm" alt="ravitezabm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ravitez_abm" target="blank"><img src="https://img.shields.io/twitter/follow/ravitez_abm?logo=twitter&style=for-the-badge" alt="ravitez_abm" /></a> </p>
+
 
 - 🔭 I’m currently working on [my own company](http://nyxtre.great-site.net/)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravitezabm](https://github.com/ravitezabm)
 
-- 📝 I regularly write articles on [http://nyxtre.great-site.net/](http://nyxtre.great-site.net/)
+- 📝 I regularly write articles on [http://nyxtry.in/](http://nyxtry.in)
 
 - 💬 Ask me about **python,react,js**
 
