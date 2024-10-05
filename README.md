@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitezabm&label=Profile%20views&color=0e75b6&style=flat" alt="ravitezabm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravitezabm" alt="ravitezabm" /></a> </p>
+<p align="left"> <a href="https://github.com/ravitezabm"><img src="https://github-profile-trophy.vercel.app/?username=ravitezabm" alt="ravitezabm" /></a> </p>
 
-
+<p align="left"> <a href="https://twitter.com/ravitez_abm" target="blank"><img src="https://img.shields.io/twitter/follow/ravitez_abm?logo=twitter&style=for-the-badge" alt="ravitez_abm" /></a> </p>
 
 - 🔭 I’m currently working on [my own company](http://nyxtre.great-site.net/)
 
