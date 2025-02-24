@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ravitez_abm" target="blank"><img src="https://img.shields.io/twitter/follow/ravitez_abm?logo=twitter&style=for-the-badge" alt="ravitez_abm" /></a> </p>
 
-- 🔭 I’m currently working on [my own company](http://www.nyxtry.in/)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravitezabm](https://github.com/ravitezabm)
