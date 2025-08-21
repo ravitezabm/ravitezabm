@@ -9,17 +9,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/ravitezabm](https://github.com/ravitezabm)
-
-- 📝 I regularly write articles on [http://nyxtry.in/](http://nyxtry.in)
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **ravitez98@gmail.com**
-
-- 📄 Know about my experiences [https://ravitezabm.github.io/Abhiramang/](https://ravitezabm.github.io/Abhiramang/)
-
-- ⚡ Fun fact **I am Colorblind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
